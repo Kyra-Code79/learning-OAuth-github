@@ -37,6 +37,7 @@ cd your-repository-name
 ### 2. Install Dependencies
 ```bash
 composer install
+composer require vlucas/phpdotenv
 ```
 
 ### 3. Configure the .env file
